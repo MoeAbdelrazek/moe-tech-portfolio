@@ -7,3 +7,6 @@ This section contains beginner-level Python projects built using only the skills
 
 ### 🔹 Contact Manager (CLI)
 A command-line tool to add, view, search, and delete contacts. Built using loops, conditionals, functions, and string handling—no external libraries required.
+
+### 🔹 Filename Cleaner (CLI)
+A command-line tool that cleans up messy filenames by trimming whitespace, replacing spaces with underscores, and converting to lowercase. Built using string methods, loops, and user input handling.
